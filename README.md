@@ -11,7 +11,8 @@ I ❤ learning! If fact,  :eyes: I love it so much it gets me in trouble with ho
 - 💬 Ask me about GDPR, consent taking (can go in detail about exact process), ISO/IEC 27001, PCI/DSS, ...etc.
 - 📫 How to reach me: https://www.linkedin.com/in/vinitsa-gorova-661958190 LinkedIn is a favourite of mine. You can also find me on Facebook.
 - ⚡ Fun fact: My utmost favourite videogame is Skyrim. 
-
+<br />
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
