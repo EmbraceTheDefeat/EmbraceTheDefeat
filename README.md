@@ -10,7 +10,7 @@ I ❤ learning! If fact,  :eyes: I love it so much it gets me in trouble with ho
 - 👯 I’m looking to collaborate on anything really - throw me a challenge and i will strive to add value.
 - 💬 Ask me about GDPR, consent taking (can go in detail about exact process), ISO/IEC 27001, PCI/DSS, ...etc.
 - 📫 How to reach me: https://www.linkedin.com/in/vinitsa-gorova-661958190 LinkedIn is a favourite of mine. You can also find me on Facebook.
-- ⚡ Fun fact: My utmost favourite videogame is Skyrim. 
+- ⚡ Fun fact: My utmost favourite videogame is Skyrim. <i class="fas fa-dragon"></i>
 <br />
 
 ### Languages and Tools:
